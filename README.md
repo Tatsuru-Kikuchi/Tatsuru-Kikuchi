@@ -6,8 +6,8 @@ Change Management by planning, implementing, and solidifying changes in an organ
 My objectives on the opportunities that I am looking for are the following. I think that business outcome should be considered the first and foremost priority of the firm more than any cutting-edge technologies. However, if the firms have a tangible vision and roadmap for their future business and technology innovations, I believe that cutting-edge technologies can drive to accelerate the business even in the next-stage of technology innovations. I confirm that combining my expertises working as a business consultant and data scientist, I can contribute to the firm for achievements of business outcomes and driving the future innovations through the appropriate use of technologies and data analytics. 
 
 ## Working Experiences
-#### 1. Research Office
-The University of Tokyo (Nov 2018 - Present)
+#### Research Officer
+1. The University of Tokyo (Nov 2018 - Present)
 - System Administrator of all IT infrastructures in order to advance a research project, which has been working in collaboration with Tokyo Shoko Research, Ltd. and The University of Tokyo. I have managed in migration from on-premise servers to the AWS cloud services which is now under operation. 
 
 #### Analytics Consultant, Data Scientist
