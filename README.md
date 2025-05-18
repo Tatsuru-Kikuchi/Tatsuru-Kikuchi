@@ -1,38 +1,43 @@
 ## Tatsuru Kikuchi, Ph.D.
 
 ## About
-Change Management by planning, implementing, and solidifying changes in an organization; IT professional with proven experience in driving research projects in economics; Data Science professional with proven experience in delivering data analytics solutions focusing on business outcomes; Business Consultant and Data Analytics professional with proven experience in the big4 professional firm; Skilled at deep insight for finding issues and problem solving.
+Over six years at The University of Tokyo, our team has delivered transformative advancements in IT infrastructure, transitioning critical research operations from on-premise servers to AWS. This collaboration with Tokyo Shoko Research, Ltd. has enabled groundbreaking research on post-quantum cryptography, addressing pressing security concerns in financial, trading, and e-commerce sectors. Additionally, the development and maintenance of an XRPL validator have supported efficient cryptocurrency operations, contributing to the evolution of decentralized finance ecosystems. 
 
-My objectives on the opportunities that I am looking for are the following. I think that business outcome should be considered the first and foremost priority of the firm more than any cutting-edge technologies. However, if the firms have a tangible vision and roadmap for their future business and technology innovations, I believe that cutting-edge technologies can drive to accelerate the business even in the next-stage of technology innovations. I confirm that combining my expertises working as a business consultant and data scientist, I can contribute to the firm for achievements of business outcomes and driving the future innovations through the appropriate use of technologies and data analytics. 
+Previous roles at Teradata and EY honed expertise in advanced analytics and machine learning, applying these technologies to IoT data insights and fraud detection. This work underscores a dedication to leveraging cutting-edge solutions for real-world challenges. Focused on scalability, security, and innovation, we aim to bridge technology and application, fostering collaboration and delivering impactful, future-ready outcomes.
 
 ## Working Experiences
-#### Research Officer
+#### IT Manager, Chief Analytics Officer
 1. The University of Tokyo (Nov 2018 - Present)
-- System Administrator of all IT infrastructures in order to advance a research project, which has been working in collaboration with Tokyo Shoko Research, Ltd. and The University of Tokyo. I have managed in migration from on-premise servers to the AWS cloud services which is now under operation. 
+• Managed teams and services of AWS cloud computing for a research project conducted with Tokyo Shoko Research, Ltd. and The University of Tokyo.
+• Conducted research on post-quantum cryptography's impact on financial, trading, and e-commerce industries.
+• Developed and maintained XRPL validator for efficient operation of cryptocurrency platform. 
 
 #### Analytics Consultant, Data Scientist
 2. Teradata (Apr 2016 - Oct 2018)
-- Delivered business outcome first business solutions to solve the issues which might exist in the clients by the use of AI-powered data analytics.
-- Developed and delivered complex data analytics models, algorithms, systems and solutions, using advanced and specialist data science, programming and analytical techniques
-- Developed to implement machine learning or deep learning algorithms as a part of data science methodology
+• Developed and delivered complex data analytics models using advanced data science techniques.
+• Implemented machine learning algorithms for root cause failure analysis on IoT data from automobiles.
+• Provided insights from various data sources to drive better business outcomes for clients.
 
 #### Business Consultant, Data Scientist
 3. EY (Jan 2014 - Mar 2016)
-- Provided business consultations for audited companies as a process of internal audit by detecting and preventing financial frauds with the help of data analytics
-- Delivered and develop data analytics solutions in audit for improving audit quality which allows auditors to help make decisions in the most optimal way
-- Delivered to expand a data analytics assisted assurance service which applies the collective knowledge and insight gleaned from working across industries and geographies to help clients conduct fraud risk assessment
+• Provided business consultations for audited companies to detect and prevent financial frauds using data analytics.
+• Assisted in financial fraud investigations as a member of forensic technology teams.
+• Developed data analytics solutions in audit to improve audit quality and assist auditors in making optimal decisions.
 
-#### Marketing Consultant, Editor, Planner
-4. Nikkei Business Publications (Apr 2010 - Dec 2014)
-- Delivered reliable contents for various industries such as medical and health care, trading, and financial institutions
-- Assisted marketing activities for top-tire clients ranging from the development of marketing plans by enterprises with new products and services to test marketing targeted at enterprises in likely markets
-- Provided a quantitative assessment for some advertisement activities by the analysis of acquired personal attribute information
+#### Marketing Consultant, Strategic Planner
+4. Nikkei Business Publications (Apr 2010 - Dec 2013)
+• Developed reliable content for various industries including medical, trading, and financial institutions.
+• Assisted in marketing activities for top-tier clients, from developing marketing plans to test marketing.
+• Managed and improved digital marketing campaigns for leading medical corporations like GE Healthcare.
+• Provided quantitative assessments for advertisement activities through personal attribute analysis.
 
 #### Postdoctoral Research Fellow
 5. KEK (Apr 2006 - Mar 2010)
-- Delivered to conduct a research in the field of theoretical elementary particle physics
-- Managed to work in collaborations with several colleagues around the world
-- Published about 40 professional papers and received about 700 citations
+• Conducted research in theoretical elementary particle physics at KEK in Ibaraki, Japan.
+• Collaborated with colleagues worldwide to publish 40 professional papers and receive 700 citations.
+• Presented findings at international conferences and seminars to contribute to the field.
+• Developed skills in data analysis, research methodology, and presentation delivery.
+
 
 
    
