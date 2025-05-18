@@ -7,7 +7,7 @@ Previous roles at Teradata and EY honed expertise in advanced analytics and mach
 
 ## Working Experiences
 #### IT Manager, Chief Analytics Officer (Nov 2018 - Present)
-###### The University of Tokyo
+##### The University of Tokyo
 • Managed teams and services of AWS cloud computing for a research project conducted with Tokyo Shoko Research, Ltd. and The University of Tokyo.
 • Conducted research on post-quantum cryptography's impact on financial, trading, and e-commerce industries.
 • Developed and maintained XRPL validator for efficient operation of cryptocurrency platform. 
